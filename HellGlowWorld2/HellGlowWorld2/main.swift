@@ -13,8 +13,6 @@ blueLightAct.name = "The Bluelight act.";
 blueLightAct.startTime = "22:20";
 blueLightAct.rating = 8;
 
-blueLightAct.showInfo();
-
 var redLightAct : GlowAct = GlowAct();
 redLightAct.name = "The Redlight act.";
 redLightAct.startTime = "11:20";
